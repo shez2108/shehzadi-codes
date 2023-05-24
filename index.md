@@ -2,17 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Project Highlights
 
-[MSc Dissertation](/sample_page)
+[Getting Audience Feedback on Ms. Marvel Using NLP and Social Media APIs](/sample_page)
+<img src="sentiment.png?raw=true"/>
 <img src="salient_negative.png?raw=true"/>
 
 ---
 [Analysing COVID-19 Data](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/covid-cluster.png?raw=true"/>
 
 ---
-[Using Machine Learning to Analyse Poetry](http://example.com/)
+[Visualising Police Data from Dallas, Texas](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
