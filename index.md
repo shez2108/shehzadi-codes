@@ -13,7 +13,7 @@
 <img src="salient_negative.png?raw=true"/>
 
 ---
-[Visualising Police Data from Dallas, Texas](http://example.com/)
+[Visualising Police Data from Dallas, Texas]
 <img src="images/dallas_loc.jpg?raw=true"/>
 <img src="images/dallas_arrestees.jpg?raw=true"/>
 
@@ -21,9 +21,10 @@
 
 ### Other Projects
 
-- [Using Machine Learning to Analyse Poetry](http://example.com/)
-- [Studying Political Echo Chambers with Computational Social Science](http://example.com/)
-- [Scraping Tools for MediaVision](http://example.com/)
+- [Using Machine Learning to Analyse Poetry](https://github.com/shez2108/Using-Machine-Learning-to-Analyse-and-Write-Poetry/blob/main/rumi_project%20(2).ipynb)
+- [A Look at Affairs Data from the 1960s] (https://github.com/shez2108/Affairs-in-1969/blob/main/Affairs_Task_%5BShehzadi%5D_.ipynb)
+- [Studying Political Echo Chambers with Computational Social Science]
+- [Scraping Tools for MediaVision]
 
 ---
 
