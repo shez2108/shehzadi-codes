@@ -4,7 +4,7 @@
 
 ### Project Highlights
 
-[Analysing COVID-19 Data](/pdf/sample_presentation.pdf)
+[Clustering Countries Based on World Bank Data](/pdf/sample_presentation.pdf)
 <img src="images/covid-cluster.png?raw=true"/>
 
 ---
