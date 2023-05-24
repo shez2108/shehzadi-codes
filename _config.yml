@@ -3,21 +3,16 @@ logo: "headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   MSc in Applied Data Science from University of Essex,
   BA(Hons) in Political Culture and Social Data Science
-  from University of Warwick
+  from University of Warwick.
+  <br><br>
   Awardee of Fully-Funded Data Science and AI scholarship. 
   Known for my unique projects that bridge the gap between
   arts and data science. First Liberal Arts student at Warwick
   to use Python in a UG dissertation.
+  <br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/shehzadi-aziz-b99a54191/">View My LinkedIn Profile</a> 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
