@@ -19,13 +19,11 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Using Machine Learning to Analyse Poetry](http://example.com/)
+- [Studying Political Echo Chambers with Computational Social Science](http://example.com/)
+- [Scraping Tools for MediaVision](http://example.com/)
 
 ---
 
