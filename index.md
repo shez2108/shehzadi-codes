@@ -13,7 +13,8 @@
 
 ---
 [Visualising Police Data from Dallas, Texas](/sample_page)
-<img src="images/dallas_loc.jpg?raw=true"/>
+<img src="images/dallas_loc.png?raw=true"/>
+<img src="images/dallas_arrestees.png?raw=true"/>
 
 ---
 
