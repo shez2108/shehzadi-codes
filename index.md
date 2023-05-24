@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [MSc Dissertation](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="wordclouds.png?raw=true"/>
 
 ---
 [Analysing COVID-19 Data](/pdf/sample_presentation.pdf)
