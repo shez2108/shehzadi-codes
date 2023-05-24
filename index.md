@@ -14,7 +14,8 @@
 
 ---
 [Visualising Police Data from Dallas, Texas](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dallas_loc.jpg?raw=true"/>
+<img src="images/dallas_arrestees.jpg?raw=true"/>
 
 ---
 
