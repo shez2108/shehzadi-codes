@@ -9,6 +9,7 @@
 
 ---
 [Getting Audience Feedback on Ms. Marvel Using NLP and Social Media APIs](/sample_page)
+<img src="sentiment_reddit.png?raw=true"/>
 <img src="salient_negative.png?raw=true"/>
 
 ---
