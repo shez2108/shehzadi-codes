@@ -13,7 +13,7 @@
 <img src="salient_negative.png?raw=true"/>
 
 ---
-[Visualising Police Data from Dallas, Texas]
+[Visualising Police Data from Dallas, Texas](/sample_page)
 <img src="images/dallas_loc.jpg?raw=true"/>
 
 ---
