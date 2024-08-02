@@ -4,7 +4,7 @@
 
 ### Project Highlights
 
-[relevance by Digitaloft](/pdf/sample_presentation.pdf)
+[relevance by Digitaloft](/https://digitaloft.co.uk/introducing-relevance-by-digitaloft/)
 <img src="images/covid-cluster.png?raw=true"/>
 
 [Clustering Countries Based on World Bank Data](/pdf/sample_presentation.pdf)
