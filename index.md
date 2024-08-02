@@ -5,18 +5,18 @@
 ### Project Highlights
 
 [relevance by Digitaloft](/https://digitaloft.co.uk/introducing-relevance-by-digitaloft/)
-<img src="images/covid-cluster.png?raw=true"/>
+<img src="relevance-report.png"/>
 
-[Clustering Countries Based on World Bank Data](/pdf/sample_presentation.pdf)
+[Clustering Countries Based on World Bank Data](/https://github.com/shez2108/covid/blob/main/MA335_final_project.pdf)
 <img src="images/covid-cluster.png?raw=true"/>
 
 ---
-[Getting Audience Feedback on Ms. Marvel Using NLP and Social Media APIs](/sample_page)
+[Getting Audience Feedback on Ms. Marvel Using NLP and Social Media APIs](https://github.com/shez2108/Getting-Audience-Feedback-From-Twitter-and-Reddit-NLP/blob/main/MSc_Dissertation%20(7).pdf)
 <img src="images/sentiment_reddit.png?raw=true"/>
 <img src="salient_negative.png?raw=true"/>
 
 ---
-[Visualising Police Data from Dallas, Texas](/sample_page)
+[Visualising Police Data from Dallas, Texas]
 <img src="images/dallas_loc.png?raw=true"/>
 <img src="images/dallas_arrestees.png?raw=true"/>
 
