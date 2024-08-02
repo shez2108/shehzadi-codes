@@ -6,8 +6,8 @@
 
 [relevance by Digitaloft](/https://digitaloft.co.uk/introducing-relevance-by-digitaloft/)
 <img src="relevance-report.png"/>
-<img src="Screenshot 2024-08-02 at 17.50.55"/>
-<img src="Screenshot 2024-08-02 at 17.51.13"/>
+<img src="relevance_1.png"/>
+<img src="relevance_2.png"/>
 [Clustering Countries Based on World Bank Data](/https://github.com/shez2108/covid/blob/main/MA335_final_project.pdf)
 <img src="images/covid-cluster.png?raw=true"/>
 
