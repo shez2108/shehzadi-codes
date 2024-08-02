@@ -5,7 +5,7 @@
 ### Project Highlights
 
 [relevance by Digitaloft](/https://digitaloft.co.uk/introducing-relevance-by-digitaloft/)
-I wrote the code for Digitaloft's groundbreaking link relevance product.
+/I wrote the code for Digitaloft's groundbreaking link relevance product.
 <img src="relevance-report.png"/>
 <img src="relevance_1.png"/>
 <img src="relevance_2.png"/>
