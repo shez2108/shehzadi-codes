@@ -5,6 +5,7 @@
 ### Project Highlights
 [relevance by Digitaloft](/sample page)
 I wrote the code for Digitaloft's groundbreaking link relevance tool. 
+
 [Clustering Countries Based on World Bank Data](/pdf/sample_presentation.pdf)
 <img src="images/covid-cluster.png?raw=true"/>
 
