@@ -6,12 +6,13 @@
 
 [relevance by Digitaloft](/https://digitaloft.co.uk/introducing-relevance-by-digitaloft/)
 <img src="relevance-report.png"/>
-
+<img src="Screenshot 2024-08-02 at 17.50.55"/>
+<img src="Screenshot 2024-08-02 at 17.51.13"/>
 [Clustering Countries Based on World Bank Data](/https://github.com/shez2108/covid/blob/main/MA335_final_project.pdf)
 <img src="images/covid-cluster.png?raw=true"/>
 
 ---
-[Getting Audience Feedback on Ms. Marvel Using NLP and Social Media APIs](https://github.com/shez2108/Getting-Audience-Feedback-From-Twitter-and-Reddit-NLP/blob/main/MSc_Dissertation%20(7).pdf)
+[Getting Audience Feedback on Ms. Marvel Using NLP and Social Media APIs](/https://github.com/shez2108/Getting-Audience-Feedback-From-Twitter-and-Reddit-NLP/blob/main/MSc_Dissertation%20(7).pdf)
 <img src="images/sentiment_reddit.png?raw=true"/>
 <img src="salient_negative.png?raw=true"/>
 
