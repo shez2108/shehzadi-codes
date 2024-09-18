@@ -7,6 +7,7 @@
 [relevance by Digitaloft](/https://digitaloft.co.uk/introducing-relevance-by-digitaloft/)
 ---
 I wrote the code for Digitaloft's groundbreaking link relevance product.
+<img src="Screenshot 2024-09-18 at 10.57.14.png"/>
 <img src="relevance-report.png"/>
 <img src="Screenshot 2024-09-18 at 10.28.45.png"/>
 <img src="Screenshot 2024-09-18 at 10.28.53.png"/>
