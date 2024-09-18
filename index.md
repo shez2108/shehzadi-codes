@@ -21,7 +21,6 @@ I wrote the code for Digitaloft's groundbreaking link relevance product.
 ---
 [Getting Audience Feedback on Ms. Marvel Using NLP and Social Media APIs](/https://github.com/shez2108/Getting-Audience-Feedback-From-Twitter-and-Reddit-NLP/blob/main/MSc_Dissertation%20(7).pdf)
 <img src="images/sentiment_reddit.png?raw=true"/>
-<img src="salient_negative.png?raw=true"/>
 
 ---
 
