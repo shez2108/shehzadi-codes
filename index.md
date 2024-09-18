@@ -13,6 +13,8 @@ I wrote the code for Digitaloft's groundbreaking link relevance product.
 <img src="relevance_1.png"/>
 <img src="Screenshot 2024-09-18 at 10.29.04.png"/>
 <img src="relevance_2.png"/>
+<img src="Screenshot 2024-09-18 at 10.29.12.png"/>
+<img src="Screenshot 2024-09-18 at 10.29.21.png"/>
 [Clustering Countries Based on World Bank Data](/https://github.com/shez2108/covid/blob/main/MA335_final_project.pdf)
 <img src="images/covid-cluster.png?raw=true"/>
 
