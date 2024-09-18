@@ -24,11 +24,6 @@ I wrote the code for Digitaloft's groundbreaking link relevance product.
 <img src="salient_negative.png?raw=true"/>
 
 ---
-[Visualising Police Data from Dallas, Texas]
-<img src="images/dallas_loc.png?raw=true"/>
-<img src="images/dallas_arrestees.png?raw=true"/>
-
----
 
 ### Other Projects
 
