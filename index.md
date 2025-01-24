@@ -4,9 +4,7 @@
 
 ### Project Highlights
 
-[Assisted Reading Tool]
-
-<a href="https://chunkitup.streamlit.app/">View App</a> 
+<a href="https://chunkitup.streamlit.app/">Assisted Reading App</a> 
 ---
 <img src="reading_scrot.png"/>
 <img src="second_scrot.png"/>
