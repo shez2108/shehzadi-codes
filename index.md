@@ -7,7 +7,7 @@
 [Assisted Reading Tool](/https://chunkitup.streamlit.app/)
 ---
 <img src="reading_scrot.png"/>
-
+<img src="second_scrot.png"/>
 
 [relevance by Digitaloft](/https://digitaloft.co.uk/introducing-relevance-by-digitaloft/)
 ---
