@@ -15,11 +15,6 @@ Developed backend functionality for a link relevance analysis tool, automating c
 <img src="tool_name.png"/>
 <img src="Screenshot 2024-09-18 at 10.28.45.png"/>
 <img src="Screenshot 2024-09-18 at 10.28.53.png"/>
-<img src="relevance_1.png"/>
-<img src="Screenshot 2024-09-18 at 10.29.04.png"/>
-<img src="relevance_2.png"/>
-<img src="Screenshot 2024-09-18 at 10.29.12.png"/>
-<img src="Screenshot 2024-09-18 at 10.29.21.png"/>
 
 
 ### Other Projects
