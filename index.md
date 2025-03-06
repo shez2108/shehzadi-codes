@@ -9,9 +9,9 @@
 <img src="reading_scrot.png"/>
 <img src="second_scrot.png"/>
 
-<a href="https://digitaloft.co.uk/introducing-relevance-by-digitaloft/">Relevance by Digitaloft</a>
+<a href="https://digitaloft.co.uk/introducing-relevance-by-digitaloft/">NLP Content Strategy Tool for UK-based Marketing Agency</a>
 ---
-I wrote the code for Digitaloft's groundbreaking link relevance product.
+Developed backend functionality for a link relevance analysis tool, automating competitive SEO insights and streamlining data processing for large-scale analysis.
 <img src="Screenshot 2024-09-18 at 11.09.25.png"/>
 <img src="relevance-report.png"/>
 <img src="Screenshot 2024-09-18 at 10.28.45.png"/>
