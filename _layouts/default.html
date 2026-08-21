@@ -13,8 +13,36 @@
       .wm-shots img { width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); }
       .wm-badge { height: 40px; width: auto; vertical-align: middle; }
       .wm-links { margin: 0.75em 0 1em; }
+      .jf-intro { color: #555; margin-bottom: 1.25em; }
+      .jf-metrics { display: flex; gap: 8px; margin: 0 0 16px; }
+      .jf-metric { flex: 1; background: #f7f7f7; border: 1px solid #e5e5e5; border-radius: 8px; padding: 10px 8px; text-align: center; }
+      .jf-metric strong { display: block; color: #222; font-size: 16px; line-height: 1.2; }
+      .jf-metric span { display: block; font-size: 11px; color: #727272; margin-top: 4px; }
+      .jf-flow { display: flex; align-items: stretch; gap: 6px; margin: 0 0 8px; font-size: 11px; }
+      .jf-flow-step { flex: 1; background: #fff; border: 1px solid #e5e5e5; border-radius: 8px; padding: 8px; text-align: center; color: #444; }
+      .jf-flow-step strong { display: block; color: #222; font-size: 12px; margin-bottom: 2px; }
+      .jf-flow-arrow { display: flex; align-items: center; color: #bbb; font-size: 14px; }
+      .jf-caption { font-size: 11px; color: #888; margin: 0 0 20px; }
+      .jf-mock { background: #3b1f5e; color: #efe7f7; border-radius: 12px; padding: 14px; margin: 0 0 8px; font-size: 12px; }
+      .jf-mock h4 { color: #fff; margin: 0 0 4px; font-size: 14px; }
+      .jf-mock .jf-mock-sub { color: #cbb6e6; margin: 0 0 10px; font-size: 11px; }
+      .jf-mock-stats { display: flex; gap: 6px; margin: 0 0 10px; }
+      .jf-mock-stat { flex: 1; background: rgba(255,255,255,0.08); border-radius: 8px; padding: 8px 6px; text-align: center; }
+      .jf-mock-stat strong { display: block; color: #fff; font-size: 15px; }
+      .jf-mock-row { background: rgba(255,255,255,0.07); border-radius: 8px; padding: 8px; margin: 0 0 6px; }
+      .jf-mock-row:last-child { margin-bottom: 0; }
+      .jf-tag { display: inline-block; background: #f3c4d3; color: #5a1730; border-radius: 999px; padding: 1px 7px; font-size: 10px; font-weight: 700; margin-left: 6px; }
+      .jf-list { list-style: none; padding: 0; margin: 0 0 20px; }
+      .jf-list li { border-top: 1px solid #eee; padding: 12px 0; }
+      .jf-list li:first-child { border-top: none; padding-top: 0; }
+      .jf-list strong { color: #222; display: block; margin-bottom: 4px; }
       @media (max-width: 640px) {
         .wm-shots a { width: 47%; margin-right: 2%; }
+        .jf-flow { flex-wrap: wrap; }
+        .jf-flow-arrow { display: none; }
+        .jf-flow-step { flex: 1 1 45%; }
+        .jf-metrics { flex-wrap: wrap; }
+        .jf-metric { flex: 1 1 45%; }
       }
     </style>
     <!--[if lt IE 9]>
