@@ -4,6 +4,27 @@
 
 ### Project Highlights
 
+**[Writer Match](https://apps.apple.com/gb/app/writer-match/id6768393942)** — live on the iOS App Store
+---
+A matching app I designed, built, and shipped for writers looking for co-writers, collaborators, and honest feedback. Writers discover people through project-based loglines or full profiles; a three-tier recommendation system ranks compatibility by genre, format, influences, language, and country. Matched writers chat in-app and keep ideas in a project bank they can keep private or open for collaboration.
+
+**Available on the [iOS App Store](https://apps.apple.com/gb/app/writer-match/id6768393942)** (listed under my name) and as a [web app](https://app.writermatchapp.com/).
+
+<p class="wm-links">
+  <a href="https://apps.apple.com/gb/app/writer-match/id6768393942">
+    <img class="wm-badge" src="images/download-on-app-store.svg" alt="Download Writer Match on the App Store">
+  </a>
+</p>
+
+<p class="wm-shots">
+  <a href="https://apps.apple.com/gb/app/writer-match/id6768393942"><img src="images/writer-match-ios-3.jpg" alt="Writer Match iOS — Discover projects"></a>
+  <a href="https://apps.apple.com/gb/app/writer-match/id6768393942"><img src="images/writer-match-ios-4.jpg" alt="Writer Match iOS — writer profile"></a>
+  <a href="https://apps.apple.com/gb/app/writer-match/id6768393942"><img src="images/writer-match-ios-2.jpg" alt="Writer Match iOS — profile setup"></a>
+  <a href="https://apps.apple.com/gb/app/writer-match/id6768393942"><img src="images/writer-match-ios-1.jpg" alt="Writer Match iOS — sign up"></a>
+</p>
+
+<p><small><a href="https://apps.apple.com/gb/app/writer-match/id6768393942">https://apps.apple.com/gb/app/writer-match/id6768393942</a> · <a href="https://app.writermatchapp.com/">https://app.writermatchapp.com/</a></small></p>
+
 <a href="https://chunkitup.streamlit.app/">Assisted Reading App</a> 
 ---
 <img src="reading_scrot.png"/>
@@ -25,7 +46,6 @@ Developed backend functionality for a link relevance analysis tool, automating c
 - Scraping Tools for MediaVision
 
 ---
-
 
 
 
